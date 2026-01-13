@@ -1,0 +1,40 @@
+html {
+    font-family: Arial, sans-serif;
+}
+
+body {
+    margin: 20px;
+}
+
+div {
+
+}
+
+p {
+
+}
+
+button {
+    display: block;
+    margin: 10px 0px;
+    color: white;
+    background-color: red;
+    padding: 5px 10px;
+}
+
+
+.btn {
+    background-color: blue;
+    border: 3px orange solid;
+}
+
+.btn-large {
+    padding: 15px 30px;
+    font-size: 30px;
+}
+
+.btn-large:hover {
+    background-color: green;
+}
+
+
